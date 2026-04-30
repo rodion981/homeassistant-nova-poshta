@@ -9,8 +9,8 @@
       }
     },
     "error": {
-      "already_configured": "Пристрій уже налаштований",
-      "already_in_progress": "Налаштування пристрою вже виконується",
+      "already_configured": "Сервіс вже налаштований",
+      "already_in_progress": "Налаштування сервісу вже виконується",
       "cannot_connect": "Не вдалося підключитися",
       "invalid_auth": "Невірна автентифікація",
       "unknown": "Невідома помилка"
